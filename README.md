@@ -1,6 +1,6 @@
-# Google Scholar Web Scraping Script
+# Google Scholar Web Scraping
 
-This is a python script that scraped a google scholar profile, and prints out information on someone's publications. Ideally, this script should write information on each publication to a JSON file.
+This is a python script that asks for a user to input the url for a google scholar profile, and then it writes publication data (title, year published, authors, etc..) from that profile to a JSON file.
 
 # How To Run
 
