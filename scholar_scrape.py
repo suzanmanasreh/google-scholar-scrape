@@ -39,9 +39,14 @@ for publication in publications:
 
     data.append(curr_pub)
 
-s = json.dumps(data)
-pprint.pprint(s)
+data_list = json.dumps(data)
+# pprint.pprint(data_list)
 
 
-with open('json_data.json', 'w') as f:
-    f.write(s)
+def create_json(data_list):
+    file_path = input("Type in a file path")
+    with open(file_path, 'w') as f:
+        f.write(data_list)
+
+
+create_json(data_list)
