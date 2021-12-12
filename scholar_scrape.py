@@ -44,7 +44,7 @@ data_list = json.dumps(data)
 
 
 def create_json(data_list):
-    file_path = input("Type in a file path")
+    file_path = input("Type in a file path: ")
     with open(file_path, 'w') as f:
         f.write(data_list)
 

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Internet of things: A survey on enabling technologies, protocols, and applications",
+    "authors": "A Al-Fuqaha, M Guizani, M Mohammadi, M Aledhari, M Ayyash",
+    "citation": "IEEE communications surveys & tutorials 17 (4), 2347-2376, 2015",
+    "year": "2015",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:Y0pCki6q_DkC"
+  },
+  {
+    "title": "Federated learning: A survey on enabling technologies, protocols, and applications",
+    "authors": "M Aledhari, R Razzak, RM Parizi, F Saeed",
+    "citation": "IEEE Access 8, 140699-140725, 2020",
+    "year": "2020",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:d1gkVwhDpl0C"
+  },
+  {
+    "title": "A survey on internet of things security: Requirements, challenges, and solutions",
+    "authors": "H HaddadPajouh, A Dehghantanha, RM Parizi, M Aledhari, H Karimipour",
+    "citation": "Internet of Things 14, 100129, 2021",
+    "year": "2021",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:9yKSN-GCB0IC"
+  },
+  {
+    "title": "Decentralized authentication of distributed patients in hospital networks using blockchain",
+    "authors": "A Yazdinejad, G Srivastava, RM Parizi, A Dehghantanha, KKR Choo, ...",
+    "citation": "IEEE journal of biomedical and health informatics 24 (8), 2146-2156, 2020",
+    "year": "2020",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:eQOLeE2rZwMC"
+  },
+  {
+    "title": "Enabling drones in the internet of things with decentralized blockchain-based security",
+    "authors": "A Yazdinejad, RM Parizi, A Dehghantanha, H Karimipour, G Srivastava, ...",
+    "citation": "IEEE Internet of Things Journal 8 (8), 6406-6415, 2020",
+    "year": "2020",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:hqOjcs7Dif8C"
+  },
+  {
+    "title": "A new cryptography algorithm to protect cloud-based healthcare services",
+    "authors": "M Aledhari, A Marhoon, A Hamad, F Saeed",
+    "citation": "2017 IEEE/ACM International Conference on Connected Health: Applications\u00a0\u2026, 2017",
+    "year": "2017",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:u5HHmVD_uO8C"
+  },
+  {
+    "title": "Design and implementation of network transfer protocol for big genomic data",
+    "authors": "M Aledhari, F Saeed",
+    "citation": "2015 IEEE International Congress on Big Data, 281-288, 2015",
+    "year": "2015",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:YsMSGLbcyi4C"
+  },
+  {
+    "title": "Machine learning research towards combating COVID-19: Virus detection, spread prevention, and medical assistance",
+    "authors": "O Shahid, M Nasajpour, S Pouriyeh, RM Parizi, M Han, M Valero, F Li, ...",
+    "citation": "Journal of Biomedical Informatics 117, 103751, 2021",
+    "year": "2021",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:qjMakFHDy7sC"
+  },
+  {
+    "title": "A deep learning-based data minimization algorithm for fast and secure transfer of big genomic datasets",
+    "authors": "M Aledhari, M Di Pierro, M Hefeida, F Saeed",
+    "citation": "IEEE Transactions on Big Data 7 (2), 271-284, 2018",
+    "year": "2018",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:UebtZRa9Y70C"
+  },
+  {
+    "title": "Optimized CNN-based Diagnosis System to Detect the Pneumonia from Chest Radiographs",
+    "authors": "M Aledhari, S Joji, M Hefeida, F Saeed",
+    "citation": "2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM\u00a0\u2026, 2019",
+    "year": "2019",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:Se3iqnhoufwC"
+  },
+  {
+    "title": "A Hybrid RSA Algorithm in Support of IoT Greenhouse Applications",
+    "authors": "M Aledhari, RM Parizi, A Dehghantanha, KKR Choo",
+    "citation": "2019 IEEE International Conference on Industrial Internet (ICII), 233-240, 2019",
+    "year": "2019",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:0EnyYjriUFMC"
+  },
+  {
+    "title": "A variable-length network encoding protocol for big genomic data",
+    "authors": "M Aledhari, MS Hefeida, F Saeed",
+    "citation": "International Conference on Wired/Wireless Internet Communication, 212-224, 2016",
+    "year": "2016",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:UeHWp8X0CEIC"
+  },
+  {
+    "title": "Machine learning for network application security: Empirical evaluation and optimization",
+    "authors": "M Aledhari, R Razzak, RM Parizi",
+    "citation": "Computers & Electrical Engineering 91, 107052, 2021",
+    "year": "2021",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:W7OEmFMy1HYC"
+  },
+  {
+    "title": "Deep neural networks for detecting real emotions using biofeedback and voice",
+    "authors": "M Aledhari, R Razzak, RM Parizi, G Srivastava",
+    "citation": "International Conference on Pattern Recognition, 302-309, 2021",
+    "year": "2021",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:2osOgNQ5qMEC"
+  },
+  {
+    "title": "Methods for Proteogenomics Data Analysis, Challenges, and Scalability Bottlenecks: A Survey",
+    "authors": "MU Tariq, M Haseeb, M Aledhari, R Razzak, RM Parizi, F Saeed",
+    "citation": "IEEE Access 9, 5497-5516, 2020",
+    "year": "2020",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:ufrVoPGSRksC"
+  },
+  {
+    "title": "A Fourier-Based Data Minimization Algorithm for Fast and Secure Transfer of Big Genomic Datasets",
+    "authors": "M Aledhari, M Di Pierro, F Saeed",
+    "citation": "2018 IEEE International Congress on Big Data (BigData Congress), 128-134, 2018",
+    "year": "2018",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:_FxGoFyzp5QC"
+  },
+  {
+    "title": "Options and challenges in Providing Universal Access",
+    "authors": "M Aledhari, N Aneja, AK Bashir, R Bennett, J Bielby, HA Hicks, R Johnson, ...",
+    "citation": "Retrieved from Internet Initiative IEEE: https://internetinitiative. ieee\u00a0\u2026, 2018",
+    "year": "2018",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:LkGwnXOMwfcC"
+  },
+  {
+    "title": "A Deep Learning-based Data Minimization Algorithm for Fast and Secure Transfer of Big Genomic Datasets",
+    "authors": "M Aledhari, M Di Pierro, M Hefeida, F Saeed",
+    "citation": "IEEE Transactions on Big Data 7 (2), 271 - 284, 2021",
+    "year": "2021",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:5nxA0vEk-isC"
+  },
+  {
+    "title": "Sensor Fusion for Drone Detection",
+    "authors": "M Aledhari, R Razzak, RM Parizi, G Srivastava",
+    "citation": "2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), 1-7, 2021",
+    "year": "2021",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:IjCSPb-OGe4C"
+  },
+  {
+    "title": "Multimodal Machine Learning for Pedestrian Detection",
+    "authors": "M Aledhari, R Razzak, RM Parizi, G Srivastava",
+    "citation": "2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), 1-7, 2021",
+    "year": "2021",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=6mSbTDgAAAAJ&citation_for_view=6mSbTDgAAAAJ:u-x6o8ySG0sC"
+  }
+]
