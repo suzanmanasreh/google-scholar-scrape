@@ -41,3 +41,7 @@ for publication in publications:
 
 s = json.dumps(data)
 pprint.pprint(s)
+
+
+with open('json_data.json', 'w') as f:
+    f.write(s)
