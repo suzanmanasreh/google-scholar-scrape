@@ -6,5 +6,5 @@ This is a python script that scraped a google scholar profile, and prints out in
 
 1. Clone repo via SSH `git@github.com:suzm10/google-scholar-scrape.git`
 2. Install bs4 if you dont't have it via `pip install beautifulsoup4`
-3. Install lxml if you don't have it vis `pip install lxml`
+3. Install lxml if you don't have it via `pip install lxml`
 4. Run the script in your preferred text editor.
