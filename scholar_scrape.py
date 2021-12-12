@@ -3,50 +3,53 @@ import requests
 import json
 import pprint
 
-# get html for a person's profile on google scholar
-html_text = requests.get(
-    'https://scholar.google.com/citations?hl=en&user=6mSbTDgAAAAJ').text
-soup = BeautifulSoup(html_text, 'lxml')
-# store all of their publications in an array
-publications = soup.find_all('tr', class_='gsc_a_tr')
-# loop through publications
+def create_list():
+    url = input("Type in the url for a google scholar profile: ")
+    # get html for a person's profile on google scholar
+    html_text = requests.get(url).text
+    soup = BeautifulSoup(html_text, 'lxml')
+    # store all of their publications in an array
+    publications = soup.find_all('tr', class_='gsc_a_tr')
+    # loop through publications
 
-# We'll use this to pool together the publications and make the json
-data = []
+    # We'll use this to pool together the publications and make the json
+    data = []
 
-for publication in publications:
-    curr_pub = {}
-    # access publication title
-    title = publication.td.a.text
+    for publication in publications:
+        curr_pub = {}
+        # access publication title
+        title = publication.td.a.text
 
-    curr_pub["title"] = title
-    divs = publication.find_all('div', class_='gs_gray')
-    # access publication authors (i should probably store each author individually but i haven't tried to yet)
-    authors = divs[0].text
-    # get publication citation info
-    citation = divs[1].text
+        curr_pub["title"] = title
+        divs = publication.find_all('div', class_='gs_gray')
+        # access publication authors (i should probably store each author individually but i haven't tried to yet)
+        authors = divs[0].text
+        # get publication citation info
+        citation = divs[1].text
 
-    curr_pub["authors"] = authors
-    curr_pub["citation"] = citation
+        curr_pub["authors"] = authors
+        curr_pub["citation"] = citation
 
-    year = publication.find('td', class_='gsc_a_y').text
+        year = publication.find('td', class_='gsc_a_y').text
 
-    curr_pub["year"] = year
+        curr_pub["year"] = year
 
-    link = 'https://scholar.google.com' + str(publication.td.a['href'])
+        link = 'https://scholar.google.com' + str(publication.td.a['href'])
 
-    curr_pub["link"] = link
+        curr_pub["link"] = link
 
-    data.append(curr_pub)
+        data.append(curr_pub)
 
-data_list = json.dumps(data)
-# pprint.pprint(data_list)
+    data_list = json.dumps(data)
+    return data_list
+    # pprint.pprint(data_list)
 
 
-def create_json(data_list):
+def create_json():
+    data_list = create_list()
     file_path = input("Type in a file path: ")
     with open(file_path, 'w') as f:
         f.write(data_list)
 
 
-create_json(data_list)
+create_json()
