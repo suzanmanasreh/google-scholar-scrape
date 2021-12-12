@@ -18,7 +18,7 @@ for publication in publications:
     curr_pub = {}
     # access publication title
     title = publication.td.a.text
-    # print(title)
+
     curr_pub["title"] = title
     divs = publication.find_all('div', class_='gs_gray')
     # access publication authors (i should probably store each author individually but i haven't tried to yet)
@@ -28,21 +28,14 @@ for publication in publications:
 
     curr_pub["authors"] = authors
     curr_pub["citation"] = citation
-    # print(authors)
-    # print(citation)
-    # get publication year
+
     year = publication.find('td', class_='gsc_a_y').text
 
     curr_pub["year"] = year
 
-    # print(year)
-    # get publication link
     link = 'https://scholar.google.com' + str(publication.td.a['href'])
 
     curr_pub["link"] = link
-
-    # print(link)
-    # print('')
 
     data.append(curr_pub)
 
